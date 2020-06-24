@@ -1,0 +1,14 @@
+2020-06-24 05:28:55,809 INFO logger [main] Logger configured
+2020-06-24 05:28:55,843 ERROR logger [main] Не удалось подключиться к базе данных!
+2020-06-24 05:29:29,406 INFO logger [main] Logger configured
+2020-06-24 05:29:29,515 ERROR logger [main] Не удалось прочесть коллекцию из базы данных!
+2020-06-24 05:30:05,963 INFO logger [main] Logger configured
+2020-06-24 05:30:06,085 ERROR logger [main] Не удалось прочесть коллекцию из базы данных!
+2020-06-24 05:30:20,982 INFO logger [main] Logger configured
+2020-06-24 05:30:21,097 INFO logger [main] Коллекция заполнена.
+2020-06-24 05:30:21,101 INFO logger [main] Сервер инициализирован.
+2020-06-24 05:30:21,102 INFO logger [main] Работа сервера запущенна.
+2020-06-24 05:30:38,958 INFO logger [main] Logger configured
+2020-06-24 05:30:39,079 INFO logger [main] Коллекция заполнена.
+2020-06-24 05:30:39,081 INFO logger [main] Сервер инициализирован.
+2020-06-24 05:30:39,081 INFO logger [main] Работа сервера запущенна.
